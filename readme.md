@@ -3,7 +3,7 @@
  Para este projeto rodar, precisaremos instalar três ferramentas: __Cypress__ , __NodeJS__ necessário para executar código __JavaScript__ e o __Visual Studio Code ou VSC__, editor que usamos para escrever código.
 <br>
 
-####NodeJS
+#### NodeJS
 
 - **1.** Abra uma janela do terminal em seu computador. Isso pode ser feito da seguinte forma:
 <br>
@@ -23,7 +23,7 @@
 - O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual), conforme imagem abaixo. Você pode escolher a versão LTS (Long Term Support, ou Suporte a Longo Prazo) e clicar no botão correspondente para baixar e instalar normalmente como qualquer outro programa.
 <img src="https://user-images.githubusercontent.com/98066667/193942963-a61b7b8e-1734-40b1-ad6c-d89ecc2e3c34.png">
 <br>
-##Instalação do Cypress
+## Instalação do Cypress
 
 O Cypress é um framework para automação de testes end-to-end, que utiliza o __JavaScript__ como linguagem de programação. Caso queira o  projeto com exatamente a mesma versão que estou usando, para não ter diferenças em nomenclatura de arquivos, faça a sua instalação fixando a versão na mesma que eu estou utilizando, através do comando:<
 br>
